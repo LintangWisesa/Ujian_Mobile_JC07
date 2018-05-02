@@ -82,7 +82,7 @@ Buatlah sebuah aplikasi React Native pencari restaurant, yang memenuhi spesifika
 
 - Contoh tampilan antarmuka aplikasi yang diharapkan (tidak harus sama persis):
 
-  ![Lintang_App2](https://4.bp.blogspot.com/-KV1W_AYbKq0/WujSbM1WU0I/AAAAAAAAEEY/7VkHIUn3E5AhMTvU3mjzh4B7tn86JM9zwCLcBGAs/s1600/soal2.png)
+  ![Lintang_App2](https://4.bp.blogspot.com/-KV1W_AYbKq0/WujSbM1WU0I/AAAAAAAAEEY/7VkHIUn3E5AhMTvU3mjzh4B7tn86JM9zwCLcBGAs/s640/soal2.png)
 
 - Done.
 
