@@ -84,7 +84,7 @@ Buatlah sebuah aplikasi React Native pencari restaurant, yang memenuhi spesifika
 
   ![Lintang_App2](https://4.bp.blogspot.com/-KV1W_AYbKq0/WujSbM1WU0I/AAAAAAAAEEY/7VkHIUn3E5AhMTvU3mjzh4B7tn86JM9zwCLcBGAs/s1600/soal2.png)
 
->_**Catatan:**_ *Commit/upload project ini ke akun Github Anda dengan nama repo: **ReactNative-Zomato-namaAnda**. Salin App.js aplikasi ini ke dalam format .txt, sertakan link url ke repo Github project ini. Kemudian kirimkan via email ke lintang@purwadhika.com dengan subject email: __ReactNative-Zomato-namaAnda__.*
+>_**Catatan:**_ *Commit/upload project ini ke akun Github Anda dengan nama repo: **ReactNative-Zomato-namaAnda**. Salin App.js aplikasi ini ke dalam format .txt, sertakan pula link url ke repo Github project ini. Kemudian kirimkan via email ke lintang@purwadhika.com dengan subject email: __ReactNative-Zomato-namaAnda__.*
 
 #
 *__#HappyCoding__*
