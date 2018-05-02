@@ -28,7 +28,7 @@ Buatlah sebuah aplikasi React Native penghitung **Indeks Massa Tubuh (IMT)**, ya
 
   ![Lintang_App1](https://2.bp.blogspot.com/-cJ0XRmZOoNI/WujSaxugEbI/AAAAAAAAEEU/3Epu_8TeoFgGCEonRUChPKMYe9HK_6jSwCLcBGAs/s1600/soal1.png)
 
->_**Catatan:**_ *Commit/upload project ini ke akun Github Anda dengan nama repo: **ReactNative-IMT-namaAnda**. Salin App.js aplikasi ini ke dalam format .txt, kemudian kirim ke lintang@purwadhika.com.*
+>_**Catatan:**_ *Commit/upload project ini ke akun Github Anda dengan nama repo: **ReactNative-IMT-namaAnda**. Salin App.js aplikasi ini ke dalam format .txt, sertakan link url ke repo Github project ini. Kemudian kirimkan via email ke lintang@purwadhika.com dengan subject email: __ReactNative-IMT-namaAnda__.*
 
 #
 __Soal 2 will be launched after lunch__
