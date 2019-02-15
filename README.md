@@ -89,7 +89,33 @@ Buatlah sebuah aplikasi React Native pencari restaurant, yang memenuhi spesifika
 >_**Catatan:**_ *Commit/upload project ini ke akun Github Anda dengan nama repo: **ReactNative-Zomato-namaAnda**. Salin App.js aplikasi ini ke dalam format .txt, sertakan pula link url ke repo Github project ini. Kemudian kirimkan via email ke lintang@purwadhika.com dengan subject email: __ReactNative-Zomato-namaAnda__.*
 
 #
-### **Soal 3 - Coming Soon**
+### **Soal 3 - La Liga**
+
+Buatlah sebuah aplikasi React Native penampil daftar tim & pemain La Liga Spanyol, yang memenuhi spesifikasi berikut:
+
+- Elemen utama aplikasi terdiri atas __3 buah screen__. Screen pertama menampilkan __list daftar tim La Liga__. Setiap list jika ditekan akan menuju ke screen kedua, yang berisi __list pemain dari tim tersebut__. Dan setiap list dari screen kedua jika ditekan akan menuju ke screen ketiga, yang berisi __profil singkat pemain__. Aplikasi memanfaatkan API dari [The Sports DB](https://www.thesportsdb.com/api.php). 
+  
+- Data yang diambil yakni:
+  - Nama tim (di screen 1)
+  - Alamat website (di screen 1)
+  - Gambar logo tim (di screen 1)
+  - Foto pemain (di screen 2)
+  - Nama pemain (di screen 2)
+  - Posisi pemain (di screen 2)
+  - Foto pemain (di screen 3)
+  - Nama pemain (di screen 3)
+  - Kewarganegaraan (di screen 3)
+  - Deskripsi (di screen 3)
+
+- Contoh tampilan antarmuka aplikasi yang diharapkan (tidak harus sama persis):
+
+  ![Lintang_App2](https://4.bp.blogspot.com/-IWwzKSwU3Ts/XGYvg2c90KI/AAAAAAAAEX0/Jc3-VoCcjRAqr8WnTOMKuKc5mBuOel3iQCLcBGAs/s1600/soal3.png)
+
+- Done.
+
+>_**Catatan:**_ *Commit/upload project ini ke akun Github Anda dengan nama repo: **ReactNative-LaLiga-namaAnda**. Salin App.js aplikasi ini ke dalam format .txt, sertakan pula link url ke repo Github project ini. Kemudian kirimkan via email ke lintang@purwadhika.com dengan subject email: __ReactNative-LaLiga-namaAnda__.*
+
+#
 
 *__#HappyCoding__*
 
